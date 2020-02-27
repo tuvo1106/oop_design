@@ -1,5 +1,6 @@
-from abc import ABC
+#!/usr/bin/env python3
 
+from abc import ABC
 from parking_lot.data_types.enums import ParkingSpotType
 
 
