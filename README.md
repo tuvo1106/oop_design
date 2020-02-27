@@ -5,7 +5,7 @@ This repository contains programs for OOP Design case studies.
 | Table of Contents                              | 
 | :--------------------------------------------- | 
 | [Library Management System](./library)         | 
-| [Parking Lot](./)                              | 
+| [Parking Lot](./parking_lot)                   | 
 | [Amazon - Online Shopping System](./)          |
 | [Stack Overflow](./)                           | 
 | [Movie Ticket Booking System](./)              |
