@@ -8,7 +8,7 @@ This repository contains programs for OOP Design case studies.
 | [Parking Lot](./parking_lot)                         | 
 | [Amazon - Online Shopping System](./online_shopping) |
 | [Stack Overflow](./stack_overflow)                   | 
-| [Movie Ticket Booking System](./)                    |
+| [Movie Ticket Booking System](./movie_ticket)        |
 | [Airline Management System](./)                      |
 | [Blackjack and a Deck of Cards](./)                  |
 | [Hotel Management System](./)                        |
