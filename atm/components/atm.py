@@ -4,7 +4,7 @@ from atm.components.cash_dispenser import CashDispenser
 from atm.components.keypad import Keypad
 from atm.components.screen import Screen
 from atm.components.printer import Printer
-from atm.components.deposit_slot import CheckDepositSlot, CashDepositSlot
+from atm.transaction.deposit import CheckDeposit, CashDeposit
 
 
 class ATM:
@@ -15,8 +15,8 @@ class ATM:
         self.__keypad = Keypad()
         self.__screen = Screen()
         self.__printer = Printer()
-        self.__check_deposit = CheckDepositSlot()
-        self.__cash_deposit = CashDepositSlot()
+        self.__check_deposit = CheckDeposit(None)
+        self.__cash_deposit = CashDeposit(None)
 
     def authenticate_user(self):
         pass
