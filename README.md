@@ -9,6 +9,7 @@ This repository contains programs for OOP Design case studies.
 | [Amazon - Online Shopping System](./online_shopping) |
 | [Stack Overflow](./stack_overflow)                   | 
 | [Movie Ticket Booking System](./movie_ticket)        |
+| [ATM](./atm)                                         |
 | [Airline Management System](./)                      |
 | [Blackjack and a Deck of Cards](./)                  |
 | [Hotel Management System](./)                        |
