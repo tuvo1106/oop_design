@@ -10,7 +10,7 @@ This repository contains programs for OOP Design case studies.
 | [Stack Overflow](./stack_overflow)                   | 
 | [Movie Ticket Booking System](./movie_ticket)        |
 | [ATM](./atm)                                         |
-| [Airline Management System](./)                      |
+| [Airline Management System](./airline)               |
 | [Blackjack and a Deck of Cards](./)                  |
 | [Hotel Management System](./)                        |
 | [Chess](./)                                          |
