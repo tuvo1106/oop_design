@@ -11,7 +11,7 @@ This repository contains programs for OOP Design case studies.
 | [Movie Ticket Booking System](./movie_ticket)        |
 | [ATM](./atm)                                         |
 | [Airline Management System](./airline)               |
-| [Blackjack and a Deck of Cards](./)                  |
+| [Blackjack and a Deck of Cards](./blackjack)         |
 | [Hotel Management System](./)                        |
 | [Chess](./)                                          |
 | [Online Stock Brokerage System](./)                  |
