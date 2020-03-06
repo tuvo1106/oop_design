@@ -13,6 +13,7 @@ This repository contains programs for OOP Design case studies.
 | [Airline Management System](./airline)               |
 | [Blackjack and a Deck of Cards](./blackjack)         |
 | [Hotel Management System](./hotel)                   |
+| [Restaurant](./restaurant)                           |
 | [Chess](./)                                          |
 | [Online Stock Brokerage System](./)                  |
 | [Car Rental System](./)                              |
