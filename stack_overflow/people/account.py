@@ -16,4 +16,4 @@ class Account:
         self.__reputation = 0
 
     def reset_password(self):
-        None
+        pass

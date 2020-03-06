@@ -32,16 +32,16 @@ class Game:
             best_score = hand.resolve_score()
             if player_score == 21:
                 # blackjack, pay 3: 2 of the bet
-                None
+                pass
             elif player_score > dealer_score:
                 # pay player equal to the bet
-                None
+                pass
             elif player_score < dealer_score:
                 # collect the bet from the player
-                None
+                pass
             else:  # tie
                 # bet goes back to player
-                None
+                pass
 
     def split(self, hand):
         cards = hand.get_cards()

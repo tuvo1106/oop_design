@@ -37,4 +37,4 @@ class Chef(Employee):
         super().__init__(id, account, name, email, phone)
 
     def take_order(self):
-        None
+        pass
