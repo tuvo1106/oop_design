@@ -14,3 +14,15 @@ class Knight(Piece):
         x = abs(start.get_x() - end.get_x())
         y = abs(start.get_y() - end.get_y())
         return x * y == 2
+
+
+class Rook(Piece):
+    pass
+
+
+class Bishop(Piece):
+    pass
+
+
+class Pawn(Piece):
+    pass
