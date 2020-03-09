@@ -15,7 +15,7 @@ This repository contains programs for OOP Design case studies.
 | [Hotel Management System](./hotel)                   |
 | [Restaurant](./restaurant)                           |
 | [Chess](./chess)                                     |
-| [Online Stock Brokerage System](./)                  |
+| [Online Stock Brokerage System](./brokerage)         |
 | [Car Rental System](./)                              |
 | [LinkedIn](./)                                       |
 | [Cricinfo](./)                                       |
