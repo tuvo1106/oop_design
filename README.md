@@ -14,7 +14,7 @@ This repository contains programs for OOP Design case studies.
 | [Blackjack and a Deck of Cards](./blackjack)         |
 | [Hotel Management System](./hotel)                   |
 | [Restaurant](./restaurant)                           |
-| [Chess](./)                                          |
+| [Chess](./chess)                                     |
 | [Online Stock Brokerage System](./)                  |
 | [Car Rental System](./)                              |
 | [LinkedIn](./)                                       |
