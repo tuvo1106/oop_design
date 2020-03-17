@@ -16,9 +16,9 @@ This repository contains programs for OOP Design case studies.
 | [Restaurant](./restaurant)                           |
 | [Chess](./chess)                                     |
 | [Online Stock Brokerage System](./brokerage)         |
-| [Car Rental System](./)                              |
-| [LinkedIn](./)                                       |
-| [Cricinfo](./)                                       |
+| [Car Rental System](./car_rental)                    |
+| [LinkedIn](./linkedin)                               |
+| [Cricinfo](./cricinfo)                               |
 | [Facebook - a social network](./)                    |
 
 
