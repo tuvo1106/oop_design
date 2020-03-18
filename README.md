@@ -19,7 +19,7 @@ This repository contains programs for OOP Design case studies.
 | [Car Rental System](./car_rental)                    |
 | [LinkedIn](./linkedin)                               |
 | [Cricinfo](./cricinfo)                               |
-| [Facebook - a social network](./)                    |
+| [Facebook - a social network](./facebook)            |
 
 
 ## Author
